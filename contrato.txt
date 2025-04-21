@@ -1,0 +1,2 @@
+AUTORIZADO PARA TESTES
+Permissão concedida para executar ataques em laboratório/CTF controlado.
